@@ -4,3 +4,9 @@
     color: white;
     text-align: center;
 }
+label {
+    font-size: 1.0rem;
+    text-align:center;
+    font-weight: bold;
+  }
+
